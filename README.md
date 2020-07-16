@@ -18,7 +18,7 @@ Installation
 -------
 Use composer
 ```
-composer require devstone/magento2-module-imagequality
+composer require devstone/module-imagequality
 ```
 or if your really want copy all files in this repository into:
 ```
